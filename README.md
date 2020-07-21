@@ -12,7 +12,7 @@ conda env create -n zoteroscripts -f environment.yml
 source activate zoteroscripts
 ```
 
-2. Store your API `library_id` and `api_key` in a file named `config.py`
+2. Store your API `library_id` and `api_key` credentials in a file named `config.py`
 
 ### Scripts
 
