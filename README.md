@@ -5,12 +5,14 @@ Zotero API
 
 ### Setup
 
-Create and activate a conda environment with:
+1. Create and activate a conda environment with:
 
 ```bash
 conda env create -n zoteroscripts -f environment.yml
 source activate zoteroscripts
 ```
+
+2. Store your API `library_id` and `api_key` in a file named `config.py`
 
 ### Scripts
 
