@@ -21,3 +21,7 @@ source activate zoteroscripts
 ### Tips
 
 Make sure that your local user library is "synced" with Zotero online
+
+###  References
+
+https://pyzotero.readthedocs.io/en/latest/
