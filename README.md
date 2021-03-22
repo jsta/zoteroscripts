@@ -18,6 +18,8 @@ source activate zoteroscripts
 
  * `manage_tags.py`: Remove all tags from a library that don't appear in a specified list
 
+ * `notes_to_csv.py`: Export all notes from a given collection to a csv file
+
 ### Tips
 
 Make sure that your local user library is "synced" with Zotero online
