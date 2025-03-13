@@ -19,6 +19,8 @@ source activate zoteroscripts
 
 * `notes_to_csv.py`: Export all notes from a given collection to a csv file
 
+* `save_webpage.py`: CLI tool to save a webpage to a given collection
+
 ### Tips
 
 Make sure that your local user library is "synced" with Zotero online
