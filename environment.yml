@@ -1,8 +1,7 @@
 name: zoteroscripts
 channels:
-- conda-forge
+        - conda-forge
 dependencies:
-        - python>3
         - pyzotero
         - black
         - pandas

@@ -1,7 +1,6 @@
 ## zoteroscripts
 
-Recipes for managing your Zotero library with the `pyzotero` interface to the 
-Zotero API
+Recipes for managing your Zotero library with the `pyzotero` interface to the Zotero API
 
 ### Setup
 
@@ -16,14 +15,14 @@ source activate zoteroscripts
 
 ### Scripts
 
- * `manage_tags.py`: Remove all tags from a library that don't appear in a specified list
+* `manage_tags.py`: Remove all tags from a library that don't appear in a specified list
 
- * `notes_to_csv.py`: Export all notes from a given collection to a csv file
+* `notes_to_csv.py`: Export all notes from a given collection to a csv file
 
 ### Tips
 
 Make sure that your local user library is "synced" with Zotero online
 
-###  References
+### References
 
 https://pyzotero.readthedocs.io/en/latest/
